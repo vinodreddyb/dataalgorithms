@@ -11,7 +11,7 @@ import java.io.IOException;
  * SecondarySortMapper implements the map() function for 
  * the secondary sort design pattern.
  *
- * @author Mahmoud Parsian
+ * 
  *
  */
 public class SecondarySortMapper 

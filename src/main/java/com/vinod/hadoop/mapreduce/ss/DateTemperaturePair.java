@@ -22,7 +22,7 @@ import java.io.IOException;
  *
  */
 public class DateTemperaturePair 
-    implements Writable, WritableComparable<DateTemperaturePair> {
+    implements  WritableComparable<DateTemperaturePair> {
 
     private Text yearMonth = new Text(); 
     private Text day = new Text();
